@@ -71,11 +71,11 @@
   <br />
   
   <div align="center">
-    <a href="https://join.skype.com/invite/OmKhPWPXyfsB" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+    <a href="https://join.skype.com/invite/w5tRz7dtpWd4" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://t.me/kanbei0605" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    <a href="https://t.me/superdev602" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://discord.gg/7AK8VDRu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+    <a href="https://discord.gg/2DvUJwCr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
     &nbsp;&nbsp;
   </div>
 </div>
